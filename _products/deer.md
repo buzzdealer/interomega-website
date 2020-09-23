@@ -12,6 +12,10 @@ price: '9.00'
 sku: deer
 stock: 10
 sizes:
+  - 0.5
+  - 0.75
+  - 1.0
+  - 1.25
   - Small
   - Medium
   - Large
